@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Neuropsychologist | Clinician-researcher"
+title: "Neuropsychologist, Clinician-researcher"
 author_profile: true
 redirect_from: 
   - /about/
