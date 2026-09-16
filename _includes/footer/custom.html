@@ -3,4 +3,16 @@
 <!-- Support for MathJax -->
 <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
+<!-- Hide footer until scrolled to bottom -->
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector(".page__footer");
+    const scrolledToBottom =
+      window.innerHeight + window.scrollY >= document.body.scrollHeight - 10;
+    if (footer) {
+      footer.classList.toggle("footer-visible", scrolledToBottom);
+    }
+  });
+</script>
+
 <!-- end custom footer snippets -->
