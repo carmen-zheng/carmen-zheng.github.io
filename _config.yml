@@ -11,12 +11,12 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Carmen Zheng"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Carmen Zheng"
+description              : &description "Carmen | Neuropsychologist | Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://carmen-zheng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Carmen (Jiamin) Zheng"
-  bio              : "Neuropsychologist and a clinician-researcher with a focus on using functional neuroimaging to understand cognition in epilepsy."
+  bio              : "Neuropsychologist and clinician-researcher with a focus on using functional neuroimaging to understand cognition in epilepsy."
   location         : "Bendigo, VIC Australia"
   employer         : "University of Melbourne"
   uri              : # URL
@@ -40,8 +40,8 @@ author:
   orcid            : "https://orcid.org/0000-0002-4937-7031"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Carmen_Zheng4"
   scopus           : # URL
   zotero           : # URL
 
@@ -50,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "carmen-zheng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "carmenzheng" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
