@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Carmen (Jiamin) Zheng"
-  bio              : "▸ Neuropsychologist and clinician-researcher.<br> ▸ Specialised in assessments of cognition and capacity, NDIS/TAC funding assistance.<br> ▸ Research interest in adult epilepsy."
+  bio              : "▸ Neuropsychologist and clinician-researcher<br><br> ▸ Specialised in assessments of cognition and capacity, NDIS/TAC funding assistance<br><br> ▸ Research interest in adult epilepsy"
   location         : "Bendigo, VIC Australia"
   employer         : "University of Melbourne"
   uri              : # URL
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=PStM-BsAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -41,7 +41,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Carmen_Zheng4"
+  researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
 
@@ -221,13 +221,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
