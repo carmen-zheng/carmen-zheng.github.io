@@ -36,4 +36,20 @@
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
+
+   .page__footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  transform: translateY(100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  z-index: 10;
+}
+
+.page__footer.footer-visible {
+  transform: translateY(0);
+  opacity: 1;
+}
 ;
