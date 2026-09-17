@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. 
 
-I currently work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments. 
+I currently work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. 
 
 My ongoing PhD at the University of Melbourne examines the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
 
