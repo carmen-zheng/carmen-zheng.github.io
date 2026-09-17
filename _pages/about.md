@@ -32,3 +32,4 @@ Qualifications
 - Master of Psychology (ClinNeuro), University of Melbourne<br>
 - Bachelor of Arts (Honours), University of Melbourne
 
+![]({{ site.baseurl }}/images/about_lang-fmri.png)
