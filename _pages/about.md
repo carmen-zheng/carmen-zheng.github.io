@@ -9,12 +9,12 @@ redirect_from:
 
 I'm a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. 
 
-I currently work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. 
+I work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. If you're a patient, please send your enquiry to the practice admin [here](https://www.theneurogroup.com.au/patient-inquiry). Information for referring clinicians can be found [here](https://www.theneurogroup.com.au/refer).
 
 My ongoing PhD at the University of Melbourne examines the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
 
 Clinical expertise
-======
+------
 - Epilepsy
 - Neuroimmunology (e.g., Multiple Sclerosis)
 - Neurodegenerative Diseases
@@ -23,15 +23,7 @@ Clinical expertise
 - Traumatic Brain Injuries
 - Substance Use
 - Decision-making Capacity
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Joint Medical Examination (JME)
 
 Site-wide configuration
 ------
