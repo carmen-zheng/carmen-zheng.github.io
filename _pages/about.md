@@ -9,7 +9,9 @@ redirect_from:
 
 I'm a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. 
 
-I work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. If you're a patient, please send your enquiry to the practice admin [here](https://www.theneurogroup.com.au/patient-inquiry). Information for referring clinicians can be found [here](https://www.theneurogroup.com.au/refer).
+I work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. 
+
+If you're a patient, please send your enquiry to the practice admin [here](https://www.theneurogroup.com.au/patient-inquiry). Information for referring clinicians can be found [here](https://www.theneurogroup.com.au/refer).
 
 My ongoing PhD at the University of Melbourne examines the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
 
@@ -25,9 +27,10 @@ Clinical expertise
 - Decision-making Capacity
 - Joint Medical Examination (JME)
 
-Site-wide configuration
+Qualifications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Master of Psychology (ClinNeuro), University of Melbourne
+Bachelor of Arts (Honours), University of Melbourne
 
 Create content & metadata
 ------
