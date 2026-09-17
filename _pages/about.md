@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Neuropsychologist, Clinician-Researcher"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. I currently work at The Neuro Group in central Bendigo, seeing adult patients for cognitive and capacity assessments. My PhD at the University of Melbourne examines the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
+I'm a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. I currently work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments. My ongoing PhD at the University of Melbourne examines the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
 
 A data-driven personal website
 ======
