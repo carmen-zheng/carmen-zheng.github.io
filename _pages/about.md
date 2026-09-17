@@ -29,8 +29,8 @@ Clinical expertise
 
 Qualifications
 ------
-Master of Psychology (ClinNeuro), University of Melbourne<br>
-Bachelor of Arts (Honours), University of Melbourne
+- Master of Psychology (ClinNeuro), University of Melbourne<br>
+- Bachelor of Arts (Honours), University of Melbourne
 
 Create content & metadata
 ------
