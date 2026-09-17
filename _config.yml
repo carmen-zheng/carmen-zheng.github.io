@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Carmen Zheng"
 title_separator          : "-"
 name                     : &name "Carmen Zheng"
-description              : &description "Carmen | Neuropsychologist | Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Carmen Zheng | Neuropsychologist | Clinical Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://carmen-zheng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Carmen (Jiamin) Zheng"
-  bio              : "▸ Neuropsychologist & Clinician-Researcher<br><br>▸ Specialised in assessments of cognition and capacity, NDIS/TAC funding assistance<br><br> ▸ Research interest in adult epilepsy"
+  bio              : "▸ Neuropsychologist & Clinician-Researcher<br><br>▸ Specialised in assessments of cognition and capacity, NDIS/TAC funding decisions<br><br> ▸ Research interest in adult epilepsy"
   location         : "Bendigo, VIC Australia"
   employer         : "University of Melbourne"
   uri              : # URL
