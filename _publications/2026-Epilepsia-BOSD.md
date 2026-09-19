@@ -6,7 +6,7 @@ permalink: /publication/2026-Epilepsia-BOSD
 excerpt: 'Naming and executive dysfunction were common cognitive features associated with BOSD; focal resections carried low cognitive risks'
 date: 2026-02-05
 venue: 'Epilepsia'
-paperurl:'https://onlinelibrary.wiley.com/doi/full/10.1002/epi.70116'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/epi.70116'
 citation: "Zheng, C. J., Weintrob, D., O''shea, M., Jackson, G. D., & Tailby, C. (2026). Cognition in adults with bottom‐of‐sulcus dysplasia and the consequences of focal resection. Epilepsia, 67(5), 2450-2462."
 ---
 
