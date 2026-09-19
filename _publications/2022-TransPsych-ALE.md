@@ -6,8 +6,6 @@ permalink: /publication/2022-TransPsych-ALE
 excerpt: 'In this work, we show that pain and depression have a cumulative negative effect on a specific set of brain regions, distinct for primary diagnosis of depression vs. pain.'
 date: 2022-05-11
 venue: 'Translational Psychiatry'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://www.nature.com/articles/s41398-022-01949-3'
 citation: "Zheng, C.J., Van Drunen, S. & Egorova-Brumley, N. Neural correlates of co-occurring pain and depression: an activation-likelihood estimation (ALE) meta-analysis and systematic review. Transl Psychiatry 12, 196 (2022)."
 ---
 
