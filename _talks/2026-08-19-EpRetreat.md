@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2026-08-19-EpRetreat
 venue: "Austin Health Epilepsy Retreat"
 date: 2026-08-19
-location: "Chirnside Park, VIC, AUS"
+location: "Chirnside Park, Victoria, AUS"
 ---
 
 In this invited talk, I summarised findings from our publication which identified naming and executive dysfunction as common cognitive features in adult patients with bottom-of-sulcus dysplasia. We also highlight focal resection carried low cognitive risks.
