@@ -9,7 +9,7 @@ author_profile: true
 
 Download the CV as a [PDF file]({{ base_path }}/files/carmen_zheng_cv.pdf).
 
-<details>
+<details markdown="1">
 <summary><strong>👩‍🎓 Career and Education</strong></summary>
 
 - 2026-Present: Clinical Neuropsychologist, [The Neuro Group](https://www.theneurogroup.com.au)
@@ -22,7 +22,7 @@ Download the CV as a [PDF file]({{ base_path }}/files/carmen_zheng_cv.pdf).
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>🏛️ Leadership and Service</strong></summary>
 
 - 2025-Present: ECR Representative, [OHBM-Aus Committee](https://ohbm-aus.github.io)
@@ -34,7 +34,7 @@ Download the CV as a [PDF file]({{ base_path }}/files/carmen_zheng_cv.pdf).
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>🌟 Grants and Awards</strong></summary>
 
 - 2026: Epilepsy Society of Australia Travel Scholarship
@@ -45,7 +45,7 @@ Download the CV as a [PDF file]({{ base_path }}/files/carmen_zheng_cv.pdf).
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>🗞️ Publications</strong></summary>
 
 {% for post in site.publications reversed %}
@@ -56,7 +56,7 @@ Download the CV as a [PDF file]({{ base_path }}/files/carmen_zheng_cv.pdf).
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>💬 Talks & Conferences</strong></summary>
 
 {% for post in site.talks reversed %}
