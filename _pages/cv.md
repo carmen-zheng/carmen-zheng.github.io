@@ -11,17 +11,17 @@ Download the CV as a [PDF file]({{ base_path }}/files/carmen_zheng_cv.pdf).
 
 **👩‍🎓 Career and Education**
 
-- Clinical Neuropsychologist, [The Neuro Group], [2026]–Present
-- Clinical Neuropsychology Registrar, [Royal Melbourne Hospital; Austin Health; Alfred Health], 2023-2025
-- MPsych in [Clinical Neuropsychology], [University of Melbourne]
-- B.A (Honours) in [Psychology], [University of Melbourne]
-- B.A in [Psychology & Sociology], [University of Melbourne]
+- Clinical Neuropsychologist, **The Neuro Group**, [2026]–Present
+- Clinical Neuropsychology Registrar, **Royal Melbourne Hospital; Austin Health; Alfred Health**, 2023-2025
+- MPsych in Clinical Neuropsychology, **University of Melbourne**
+- B.A (Honours) in Psychology, **University of Melbourne**
+- B.A in Psychology & Sociology, **University of Melbourne**
 
 ---
 
 **🏛️ Leadership and Service**
 
-- [Year]: [Role], [Organization/Committee]
+- [2025-Present]: [ECR Representative], [OHBM-Aus Committee]
 
 ---
 
