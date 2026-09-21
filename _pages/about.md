@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Neuropsychologist | Researcher | Bendigo"
+title: "Neuropsychologist \| Researcher \| Bendigo"
 author_profile: true
 redirect_from: 
   - /about/
