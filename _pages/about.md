@@ -13,7 +13,7 @@ She currently works at [The Neuro Group](https://www.theneurogroup.com.au) in ce
 
 If you're a patient, please send your enquiry to the practice admin [here](https://www.theneurogroup.com.au/patient-inquiry). Information for referring clinicians can be found [here](https://www.theneurogroup.com.au/refer).
 
-Carmen is completing a PhD at the University of Melbourne, examining the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
+Carmen is also completing a PhD at the University of Melbourne, examining the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
 
 Clinical expertise
 ------
