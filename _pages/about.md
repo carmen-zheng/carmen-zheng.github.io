@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. 
+Carmen is a clinical neuropsychologist and researcher based in Bendigo, Victoria, Australia. 
 
-I work at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. 
+She currently works at [The Neuro Group](https://www.theneurogroup.com.au) in central Bendigo, seeing adult patients for cognitive and capacity assessments, as well as supporting NDIS/TAC funding decisions. 
 
 If you're a patient, please send your enquiry to the practice admin [here](https://www.theneurogroup.com.au/patient-inquiry). Information for referring clinicians can be found [here](https://www.theneurogroup.com.au/refer).
 
-My ongoing PhD at the University of Melbourne examines the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
+Carmen is completing a PhD at the University of Melbourne, examining the cognitive impact and surgical suitability of developmental brain lesions that cause epilepsy in adults. 
 
 Clinical expertise
 ------
